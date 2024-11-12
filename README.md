@@ -6,8 +6,8 @@ dependencies:
   ...
   platform_device_id:
     git:
-      url: https://github.com/faridfedora/platform_device_id_kotlin_updated.git
-      ref: main
+      url: https://github.com/hungryemon/platform_device_id
+      ref: master
 ```
 
 
